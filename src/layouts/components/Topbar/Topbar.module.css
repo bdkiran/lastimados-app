@@ -1,0 +1,31 @@
+.siteHeader {
+    background-color: #322549;
+    color: hsla(0,0%,100%,.7);
+    overflow: hidden;
+    height: 60px;
+    padding: 0 5px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 500;
+}
+
+.headerContainer {
+    width: 100%;
+    margin: 0 auto;
+}
+
+/*Temporary until we get logo*/
+.headerContainer h1 {
+    margin: 0;
+    padding: 0;
+}
+
+.headerLeft {
+    float: left;
+}
+
+.headerRight {
+    float: right;
+}
