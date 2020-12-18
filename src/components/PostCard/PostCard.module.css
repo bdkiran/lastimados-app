@@ -1,0 +1,29 @@
+.reponseCard {
+    margin-top: 1vh;
+    background-color: #ffffff;
+    padding: 2vh;
+}
+
+.responseCardTitle {
+    display: flex;
+    flex-direction: row;
+}
+
+.reponseCardIconContainer {
+    margin-right: 1vh;
+}
+
+.reponseCardIconContainer img{
+    border-radius: 50%;
+}
+
+.responseCardTitleText h1,
+.responseCardTitleText h2,
+.responseCardTitleText h3,
+.responseCardTitleText h4,
+.responseCardTitleText h5,
+.responseCardTitleText h6,
+.responseCardTitleText p {
+    margin: 0;
+    padding: 0;
+}

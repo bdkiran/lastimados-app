@@ -1,0 +1,9 @@
+.threadLinkContainer {
+    background-color: white;
+    padding: 1vh;
+    margin: 1vh 0;
+}
+
+.threadLinkContainer a {
+    color: black
+}

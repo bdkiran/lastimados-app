@@ -16,21 +16,3 @@
     display: flex;
     flex-direction: column;
 }
-
-.reponseCard {
-    margin-top: 1vh;
-    background-color: #ffffff;
-    padding: 2vh;
-}
-
-.responseCardTitle h1,
-.responseCardTitle h2,
-.responseCardTitle h3,
-.responseCardTitle h4,
-.responseCardTitle h5,
-.responseCardTitle h6,
-.responseCardTitle p {
-    margin: 0;
-    padding: 0;
-}
-

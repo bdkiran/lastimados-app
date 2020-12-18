@@ -5,6 +5,7 @@
     height: 60px;
     padding: 0 5px;
     position: sticky;
+    line-height: 60px;
     top: 0;
     left: 0;
     right: 0;
@@ -16,16 +17,26 @@
     margin: 0 auto;
 }
 
-/*Temporary until we get logo*/
-.headerContainer h1 {
-    margin: 0;
-    padding: 0;
-}
-
 .headerLeft {
     float: left;
 }
 
 .headerRight {
     float: right;
+}
+
+.accountButton {
+    background-color: #fc7a63;
+    color: white;
+    border-radius: 20px;
+    padding: 7px;
+    margin: 0 2px;
+}
+
+.postButton {
+    background-color: #fc7a63;
+    border-radius: 20px;
+    padding: 7px;
+    color: white;
+    margin: 0 2px;
 }
